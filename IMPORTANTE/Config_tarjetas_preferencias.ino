@@ -1,8 +1,16 @@
-//Toca descargar en el gestor de tarjetas de herramientas, la librería de ESP8266
-//En preferencias se pone "https://arduino.esp8266.com/stable/package_esp8266com_index.json"
+/* Catamaran_motors y Sensor_di_color_good
+https://arduino.esp8266.com/stable/package_esp8266com_index.json
+https://espressif.github.io/arduino-esp32/package_esp32_index.json
+*/
 
-//Para la ESPCAM se descargan la librería de ESP32 de espressif Systems
-// y se pone "https://dl.espressif.com/dl/package_esp32_index.json"
+
+/* En el geestor de tarjetas
+esp8266 by ESP8266 Community
+esp32 by Espressif (las versios viejas tiene reconocimiento facial, las recientes no)
+*/
+
+
+
 
 
 //D0 → GPIO16 
